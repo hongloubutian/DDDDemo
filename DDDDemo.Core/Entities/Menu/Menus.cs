@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Abp.Domain.Entities;
 
-namespace DDDDemo.Menu
+namespace DDDDemo.Entities.Menu
 {
-   public  class Menus:Entity
+   public  class Menus:Entity<Guid>
     {
        public Menus()
        {

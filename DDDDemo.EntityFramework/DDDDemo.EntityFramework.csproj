@@ -96,6 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EntityFramework\DDDDemoDbContext.cs" />
+    <Compile Include="EntityFramework\Repositories\CacheMenuRepository.cs" />
     <Compile Include="EntityFramework\Repositories\DDDDemoRepositoryBase.cs" />
     <Compile Include="Migrations\201605270337598_InitialDatabase.cs" />
     <Compile Include="Migrations\201605270337598_InitialDatabase.Designer.cs">

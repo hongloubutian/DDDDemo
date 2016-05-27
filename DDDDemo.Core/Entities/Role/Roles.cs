@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Abp.Domain.Entities;
-using DDDDemo.Menu;
+using DDDDemo.Entities.Menu;
 
-namespace DDDDemo.Role
+namespace DDDDemo.Entities.Role
 {
-   public class Roles:Entity
+   public class Roles:Entity<Guid>
     {
        public Roles()
        {

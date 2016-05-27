@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Abp.Domain.Entities;
+using Abp.Runtime.Caching;
 
-namespace DDDDemo.Role
+namespace DDDDemo.Repositories
 {
-  public   class UserRole:Entity
+   public  interface ICacheMenuRepository
     {
-
     }
 }

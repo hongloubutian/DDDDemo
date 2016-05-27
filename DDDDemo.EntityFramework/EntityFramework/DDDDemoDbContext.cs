@@ -1,14 +1,16 @@
 ﻿using System.Data.Entity;
 using Abp.EntityFramework;
-using DDDDemo.Menu;
-using DDDDemo.Role;
+using DDDDemo.Entities.Menu;
+using DDDDemo.Entities.Role;
+using DDDDemo.Entities.Users;
+
 
 namespace DDDDemo.EntityFramework
 {
     public class DDDDemoDbContext : AbpDbContext
     {
         //TODO: Define an IDbSet for each Entity...
-        public IDbSet<Users.Users> UserList { get; set; }
+        public IDbSet<Users> UserList { get; set; }
 
         public IDbSet<Roles> RoleList { get; set; }
 

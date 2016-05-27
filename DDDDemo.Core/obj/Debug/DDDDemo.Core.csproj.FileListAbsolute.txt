@@ -22,4 +22,3 @@ D:\Workspace\DDDDemo\DDDDemo.Core\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 D:\Workspace\DDDDemo\DDDDemo.Core\bin\Debug\System.Collections.Immutable.xml
 D:\Workspace\DDDDemo\DDDDemo.Core\obj\Debug\DDDDemo.Core.dll
 D:\Workspace\DDDDemo\DDDDemo.Core\obj\Debug\DDDDemo.Core.pdb
-D:\Workspace\DDDDemo\DDDDemo.Core\obj\Debug\DDDDemo.Core.csprojResolveAssemblyReference.cache
