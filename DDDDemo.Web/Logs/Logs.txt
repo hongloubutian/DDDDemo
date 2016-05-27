@@ -1,0 +1,22 @@
+DEBUG 2016-05-27 10:40:44,621 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-05-27 10:40:45,657 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2016-05-27 10:40:45,660 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.9.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,663 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.9.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,663 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.9.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,663 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.9.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,663 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.9.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,664 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.9.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,664 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DDDDemo.DDDDemoApplicationModule, DDDDemo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,664 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DDDDemo.DDDDemoCoreModule, DDDDemo.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,664 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DDDDemo.DDDDemoDataModule, DDDDemo.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,664 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DDDDemo.Web.DDDDemoWebModule, DDDDemo.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,664 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: DDDDemo.DDDDemoWebApiModule, DDDDemo.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-27 10:40:45,667 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2016-05-27 10:40:46,247 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2016-05-27 10:40:46,254 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2016-05-27 10:40:46,255 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2016-05-27 10:40:46,256 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: DDDDemo
+DEBUG 2016-05-27 10:40:46,396 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2016-05-27 10:40:46,482 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+WARN  2016-05-27 10:40:51,543 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2016-05-27 10:40:51,559 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
